@@ -38,5 +38,7 @@ This series includes the following tutorials:
 
 # Images
 ![1](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-1.jpg)
+![2](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-2.jpg)
+![3](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-3.jpg)
 ![4](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-4.jpg)
 ![5](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-5.jpg)
