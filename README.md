@@ -10,7 +10,7 @@ Student:
 Project: In this proiect, I built a CRUD of Movies using Razor Pages architecture and concepts in ASP.NET Core.
 This app can display and manage a database of movies.
 
-I built this project by following series of tutorials found at 
+I built this project by following series of tutorials found at: 
 [📄Get started with ASP.NET Core MVC on learn.microsoft.com](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code)
 
 This series includes the following tutorials:
