@@ -37,4 +37,6 @@ This series includes the following tutorials:
 * [.NET](https://dotnet.microsoft.com/es-es/)
 
 # Images
-![I am Front-end Web Developer](https://github.com/Cherry-Machado/Website/blob/master/img/Banner_Cherry1.png)
+![1](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-1.jpg)
+![2](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-2.jpg)
+![3](https://github.com/Cherry-Machado/RazorPagesMovie/blob/main/wwwroot/lib/Foto-net-3.jpg)
