@@ -4,8 +4,8 @@ Class CSE325 - .NET Software Development
 
 Student:
 
- 🤵 Cherry Wilmer Machado Carreno.
- ◾ My Quote: "Be strong and of a good courage" Joshua 1:6.
+🤵 Cherry Wilmer Machado Carreno.
+◾ My Quote: "Be strong and of a good courage" Joshua 1:6.
 
 Project: In this proiect, I built a CRUD of Movies using Razor Pages architecture and concepts in ASP.NET Core.
 This app can display and manage a database of movies.
