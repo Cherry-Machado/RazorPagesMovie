@@ -35,3 +35,6 @@ This series includes the following tutorials:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [C#](https://dotnet.microsoft.com/es-es/languages/csharp)
 * [.NET](https://dotnet.microsoft.com/es-es/)
+
+# Images
+![I am Front-end Web Developer](https://github.com/Cherry-Machado/Website/blob/master/img/Banner_Cherry1.png)
